@@ -32,8 +32,8 @@ In this project we are going to make a real time Intruder Detection System using
 # Final images of the output generated
   ** Final model **
   
-  ![image](https://github.com/Prats13/Real-Time-Intruder-Detection-System-using-Arduino-and-Python/assets/93511663/e0c35851-2c30-4fbe-97ad-6dbe346da0fb)
-  
+  ![WhatsApp Image 2023-10-18 at 16 30 15_81736006](https://github.com/Souvik2411/Real_time_intruder_detection_system_using_python/assets/118390488/33ca949a-817a-4b5e-8a62-6dfd7029a43a)
+
   ** Notification images of the test **
   
   ![notification screen shot](https://github.com/Prats13/Real-Time-Intruder-Detection-System-using-Arduino-and-Python/assets/93511663/f7a84ac9-f63f-4fbf-a161-86dbafe356b0)
